@@ -1,0 +1,1741 @@
+*SHOW ~ Polynoidae character list, KF 13 Mar 2002; RW 14 Mar 2002.
+
+*COMMENT Polynoidae character list, KF 13 Mar 2002; RW chars (beginning #158)
+for Aust appended 14 Mar 2002.
+
+*CHARACTER LIST
+
+#1. <Partial synonymy>/
+
+#2. https://www.marinespecies.org/polychaeta/aphia.php?p=taxdetails&id=/
+
+#3. <current WoRMS family/subfamily>/
+       1. Acoetidae/
+       2. Aphroditidae/
+       3. Eulepethidae/
+       4. Iphionidae/
+       5. Admetellinae/
+       6. Arctonoinae/
+       7. Eulagiscinae/
+       8. Lepidastheniinae/
+       9. Lepidonotinae/
+       10. Lepidonotopodinae/
+       11. Macellicephalinae/
+       12. Polynoinae <<includes Acholoinae, Harmothoinae>>/
+       13. Uncopolynoinae/
+       14. Polynoidae incertae sedis/
+       15. Sigalionidae: Pelogeniinae/
+       16. Sigalionidae: Pholoinae/
+       17. Sigalionidae: Sthenelanellinae/
+       18. Sigalionidae: Sigalioninae <<= Sigalionidae incertae sedis>>/
+
+#4. Output file/
+
+#5. Scoring:/
+       1. R. Wilson, 2014 onwards/
+       2. K. Fauchald & R. Wilson, 2000-2013/
+       3. A. Murray, 2018 onwards/
+
+#6. character scoring/
+
+#7. updates <<notes for publication in natural language outputs>>/
+
+#8. <material examined> type specimens/
+
+#9. <material examined> non-type specimens/
+
+#10. <literature sources for description>/
+
+#11. <source reference(s) for description> <<full citations>>/
+
+#12. status/
+       1. accepted/
+       2. unaccepted/
+
+#13. \b{}status notes\b0{} <<for use in tonat outputs>>/
+
+#14. \b{}Working notes\b0{} <<internal use only; use as "to do" list>> <TE>/
+
+#15. \b{}Molecular data\b0{} <<internal use only>> <TE>/
+
+#16. Rank/
+       1. species/
+       2. genus/
+       3. subfamily/family/
+
+#17. <<image filename - status - working notes>>/
+
+#18. <<Image caption>>/
+
+#19. <<image sources>>/
+
+#20. \b{}unparsed description - from original source, for error checking\b0{}/
+
+#21. <diagnosis>/
+
+#22. <diagnosis status>/
+       1. [incomplete]/
+       2. [valid 2022]/
+       3. [unchecked]/
+
+#23. type locality: <<omit from outputs, incomplete, use WoRMS>>/
+
+#24. <<\b{}Wikipedia lead section\b0{} first sentence wikipedia page,
+          collections online etc>>/
+
+#25. <<\b{}Wikipedia description - \b0{}manually edited>>/
+
+#26. <<\b{}Wikipedia taxonomic comments\b0{}>>/
+
+#27. additional literature:/
+
+#28. <distribution - ocean>/
+       1. Arctic Ocean/
+       2. North Atlantic Ocean <including Gulf of Mexico>/
+       3. Mediterranean Sea/
+       4. South Atlantic Ocean/
+       5. North Pacific Ocean/
+       6. South Pacific Ocean/
+       7. Indian Ocean <including Red Sea and Gulf of Iran>/
+       8. Indo-Pacific <approximately Thailand to Hawaii and northern Australia
+          to southern Japan>/
+       9. Southern Ocean - Subantarctic/
+       10. Antarctic Ocean/
+
+#29. <distribution - comments>/
+
+#30. <distribution - Aust-NZ>/
+       1. Australia/
+       2. New Zealand/
+       3. not known from Australia or New Zealand/
+
+#31. depth <range>/
+       metres/
+
+#32. depth <zone>/
+       1. intertidal (~0-1 m) <<only recorded intertidally>>/
+       2. shelf (< 200 m) <<including intertidal>>/
+       3. bathyal (200-2000 m)/
+       4. abyssal (2000-5000 m)/
+       5. hadal ( >5000 m)/
+
+#33. depth <notes>/
+
+#34. environment/
+       1. benthic/
+       2. pelagic/
+
+#35. ecology <commensal status>/
+       1. commensal/
+       2. not known to be commensal/
+
+#36. ecology host <phylum>/
+       1. Porifera/
+       2. Cnidaria/
+       3. Annelida/
+       4. Mollusca/
+       5. Crustacea/
+       6. Echinodermata/
+       7. Hemichordata/
+       8. Chordata/
+
+#37. ecology <host taxon>/
+       1. Actiniidae/
+       2. Alcyonacea <<alcyonarian & gorgonian corals>>/
+       3. Ampharetidae/
+       4. Antipatharia/
+       5. Aphroditidae/
+       6. Arenicolidae/
+       7. Asteroidea/
+       8. Bathymodiolus/
+       9. Bryozoa/
+       10. Capitellidae/
+       11. Chaetopteridae/
+       12. Cirripedia/
+       13. Crinoidea/
+       14. Decapoda/
+       15. Echiuroidea/
+       16. Echinoidea/
+       17. Eunicidae/
+       18. Gorgonocephalidae/
+       19. Hexactinellidae/
+       20. Holothuroidea/
+       21. Iphionidae/
+       22. Maldanidae/
+       23. Nereididae/
+       24. Ophiuroidea/
+       25. Primnoidae/
+       26. Pectinariidae/
+       27. Scleractinia/
+       28. Sipuncula/
+       29. Solanderiidae/
+       30. Stylasteridae/
+       31. Tellinoidea/
+       32. Terebellidae/
+       33. Xylophaigidae (submerged wood) <<probably host for all "submerged
+          wood annelids">>/
+
+#38. ecology <remarks>/
+
+#39. sources for host data/
+
+#40. <<\b{}Wikipedia biology and ecology - \b0{}and any other notable remarks>>/
+
+#41. sources for distribution <references/material examined>/
+
+#42. sources for bathymetric data <blank if same as previous>/
+
+#43. sources for ecology data <blank if same as previous>/
+
+#44. body shape/
+       1. ovate to rounded; dorsal scales present but usually obscured by a
+          thick brownish felt of very fine chaetae/
+       2. vermiform; may be short-bodied (especially deep-sea forms) but still
+          of similar width throughout, dorsal pairs of scale present either
+          throughout or at least on anterior segments/
+
+#45. body <segment count>/
+       segments/
+
+#46. body length/
+       1. (short, fewer than 50 segments)/
+       2. (long, 50 segments or more)/
+
+#47. segments_min <<RW working>>/
+
+#48. segments_max <<RW working>>/
+
+#49. <Length of specimen> <<omit from 2011 intkey and parsimony treatments, keep
+          for tonat>>/
+       mm long/
+
+#50. greatest width <<omit from 2011 intkey and parsimony treatments, keep for
+          tonat>>/
+       mm/
+
+#51. <details of specimens examined>/
+
+#52. <Body pigmentation and pigment patterns> <<omit from 2011 intkey and
+          parsimony treatments, keep for tonat>>/
+
+#53. prostomium <proportions>/
+       1. longer than wide/
+       2. about as long as wide/
+       3. wider than long/
+
+#54. prostomium widest <part of prostomium>/
+       1. anterior to middle <of prostomial length>/
+       2. at or posterior to middle <of prostomial length>/
+
+#55. prostomium <entire or divided>/
+       1. partially separated into lobes, joined posteriorly to a single unit/
+       2. completely separated into two lobes/
+       3. entire, not divided into lobes/
+
+#56. prostomium anterior notch/
+       1. narrow, typically filled by median antenna ceratophore (or about that
+          narrow in species where median antenna is absent)/
+       2. wide, prostomium U-shaped/
+       3. widely separated by expanded facial tubercle (anterior part of
+          prostomium curved ventrally <<Iphionidae>>/
+
+#57. cephalic peaks <present/absent>/
+       1. absent/
+       2. present/
+
+#58. cephalic peaks <position>/
+       1. medially on anterior margin near median antenna ceratophore/
+       2. in middle of anterior margin/
+       3. close to or in continuation of lateral margin of prostomium/
+       4. arising behind anterior margin on surface of dorsal prostomial lobes/
+
+#59. anterior tip of frontal margin of prostomium <<OMIT, nearly always refers
+          redundantly to location of cephalic peaks>>/
+       1. in lateral position/
+       2. in the middle of the frontal edge/
+
+#60. cephalic peaks <size> <<OMIT, has no objective basis>>/
+       1. small/
+       2. large/
+
+#61. ommatophores <absent/present>/
+       1. absent/
+       2. present/
+
+#62. ommatophores form/
+       1. low hemispherical mounds, oriented dorsally/
+       2. stalk-like peduncles of constant diameter, oriented anteriorly/
+       3. bulbous, comprising stalks with narrow necks, oriented anteriorly/
+       4. completely fused, with spherical distal part comprising the lenses/
+
+#63. eyes <absent/present>/
+       1. absent/
+       2. present/
+
+#64. eyes <form>/
+       1. ovate or round/
+       2. as very small pigmented spots/
+
+#65. eyes <number of pairs>/
+       1. one pair/
+       2. two pairs <<implicit>>/
+       3. 3-5 pairs of small eyespots/
+       4. two pairs and small eyespots/
+
+#66. eyes <separation across prostomium>/
+       1. separated by at least one eye-diameter/
+       2. touching, but distinct/
+       3. confluent/
+
+#67. eyes anterior and posterior eyes on each side <separation>/
+       1. clearly separated from each other/
+       2. touching each other but distinct/
+       3. more or less confluent/
+
+#68. anterior eyes located/
+       1. in front of widest part of prostomium/
+       2. at widest part of prostomium/
+       3. posterior to widest part of prostomium/
+       4. on chaetigers 4-5, deeply sub-dermal <Iphionides glabra>/
+
+#69. anterior eyes orientation/
+       1. anterior to antero-ventral/
+       2. lateral, dorso-lateral to dorsal/
+
+#70. posterior eyes located/
+       1. at least one eye diameter in front of posterior margin/
+       2. near posterior margin of prostomium/
+
+#71. posterior eyes orientation/
+       1. dorsal/
+       2. lateral/
+       3. postero-lateral/
+
+#72. eyes <comments>/
+
+#73. palps length/
+       1. long, greatly outreach lateral antennae/
+       2. short, similar to or less than length of lateral antennae (or less
+          than length of prostomium in taxa where lateral antennae absent)/
+
+#74. palps development/
+       1. prominent in dorsal view, stout and conical/
+       2. poorly-developed tubercles or cones, not visible in dorsal view/
+
+#75. palps surface/
+       1. smooth or with indistinct/small papillae (perhaps only visible at high
+          magnification so that palps may appear smooth)/
+       2. with large conspicous papillae arranged in distinct rows/
+       3. rugose/
+
+#76. palpal papillae <simple or branched>/
+       1. simple (unbranched)/
+       2. branched, bifurcate/
+
+#77. inner palpal sheath <absent/present>/
+       1. absent/
+       2. present/
+
+#78. outer palpal sheath <absent/present>/
+       1. absent/
+       2. present/
+
+#79. palps <comments>/
+
+#80. median antenna <presence/absence>/
+       1. present/
+       2. absent/
+
+#81. median antenna <position>/
+       1. anterior, at front of prostomium/
+       2. dorsal/
+
+#82. median antenna ceratophore <absence/presence>/
+       1. absent/
+       2. present/
+
+#83. median antenna ceratostyle <relative length>/
+       1. longer than lateral antennae/
+       2. about as long as lateral antennae/
+       3. shorter than lateral antennae/
+
+#84. median antenna ceratostyles <form, of unjointed style>/
+       1. elongate, evenly tapering <much longer than ceratophore>/
+       2. elongate, evenly tapering but with distal end distinctly narrowed
+          <much longer than ceratophore>/
+       3. elongate, with subdistal inflated region and slender tip/
+       4. short, subulate to conical <at most 2 times as long as ceratophore>/
+       5. elongate cylinders, stout finger-like but with sharply narrowed tips
+          <diameter at least equal to that of ceratophore>/
+       6. with subdistal inflated region and clavate tip <<Aphrogenia,
+          Pontogenia>>/
+       7. globular or conical (barely longer than wide) <<Branchipolynoe
+          eleseae, also Aphrodita, Eulepethidae>>/
+       8. club-shaped, narrow basally with bulbous tip <<eg some Aphrodita>>/
+
+#85. median antenna ceratostyle <not papillated /papillated>/
+       1. smooth/
+       2. papillate/
+
+#86. median antenna ceratostyle comprising <one or two articles>/
+       1. a single unjointed article/
+       2. two articles separated by a distinct constriction/
+
+#87. median antenna <jointed style form>/
+       1. basal and tip sections both cirriform <<some Laetmonice, Pontogenia>>/
+       2. basal section cirriform, tip section clavate <<some Laetmonice,
+          Pontogenia>>/
+       3. basal section with distal inflated region, tip section clavate
+          <<Aphrogenia>>/
+
+#88. lateral antennae <present/absent>/
+       1. present/
+       2. absent/
+
+#89. lateral antennae ceratophores/
+       1. absent (lateral antennae unarticulated)/
+       2. present/
+
+#90. lateral antennae prostomial location <<make state 2 implicit to improve
+          readability>>/
+       1. terminal, continuous with lateral margin of prostomium/
+       2. ventral to and separate from prostomium/
+
+#91. lateral antennae inserted <relative to median antenna ceratophore>/
+       1. terminoventrally, almost at same level as median antenna/
+       2. ventrally, distinctly beneath level of median antenna/
+       3. slightly dorsal to median antenna <<Capitulatinoe>>/
+
+#92. lateral antennae ceratophores basally/
+       1. separated, not touching/
+       2. touching but not fused/
+       3. fused/
+
+#93. lateral antennae <length>/
+       1. at most half as long as width of prostomium/
+       2. about equal to width of prostomium/
+       3. longer than width of prostomium/
+
+#94. lateral antennae ceratostyles <form>/
+       1. elongate, evenly tapering <much longer than ceratophore>/
+       2. elongate, with sharply narrowed tips <much longer than ceratophore>/
+       3. elongate, subdistally inflated <much longer than ceratophore>/
+       4. short, subulate to conical <at most 2 times as long as ceratophore>/
+
+#95. lateral antennae ceratostyles <not papillated /papillated>/
+       1. without papillae/
+       2. with slender papillae/
+       3. with thick, digitiform, or scale like papillae/
+
+#96. <antennae comments>/
+
+#97. frontal filaments/
+       1. present/
+       2. absent/
+
+#98. frontal filaments <comments>/
+
+#99. paired auxiliary appendages at the base of the lateral antennae
+          ceratophores <absent/present>/
+       1. absent/
+       2. present/
+
+#100. paired auxiliary appendages on segment 1 <form>/
+       1. short scale-like structures/
+       2. very long and tapering, more than half length of cirrus/
+
+#101. prostomial auricle <absent/present>/
+       1. absent/
+       2. present/
+
+#102. nuchal flaps on posterior margin of prostomium <absent/present>/
+       1. absent/
+       2. present/
+
+#103. [comments on prostomium and anterior segments]/
+
+#104. tentaculophores <with/without chaetae>/
+       1. with chaetae/
+       2. without chaetae/
+
+#105. tentacular cirri <form>/
+       1. elongate, evenly tapering <much longer than cirrophore>/
+       2. elongate, with sharply narrowed tips <much longer than cirrophore>/
+       3. elongate, subdistally inflated <much longer than cirrophore>/
+       4. elongate cylinders, stout finger-like but with sharply narrowed tips
+          <diameter at least equal to that of cirrophore>/
+
+#106. tentacular cirri <smooth/papillated>/
+       1. without papillae/
+       2. with slender papillae/
+       3. with flattened, scale-like papillae/
+
+#107. dorsal tentacular crests on segment 1 <absent/present>/
+       1. absent/
+       2. present/
+
+#108. stylodes on segment 1 <absent/present>/
+       1. absent/
+       2. present/
+
+#109. inner tentacular lobes on segment 1 <absent/present>/
+       1. absent/
+       2. present/
+
+#110. median ciliated ridge on inner tentacular lobes <absent/present>/
+       1. absent/
+       2. present/
+
+#111. jaws <present/absent>/
+       1. present/
+       2. absent (or represented by vestigial thickenings of the pharynx)/
+
+#112. jaws comprising/
+       1. two dorsal and two ventral elements, all elements independent,
+          fang-shaped/
+       2. two dorsal and two ventral elements, fused medially to appear as
+          single dorsal and ventral elements, distally fang-shaped/
+       3. dorsal jaw elements fused, two separate jaw elements ventrally/
+       4. four elements, fused into V-shaped structures laterally, distally
+          fang-shaped/
+       5. two elements only; distally fang-shaped/
+       6. two pairs of plate-like elements/
+
+#113. jaws cutting edge/
+       1. smooth/
+       2. smooth but with a single basal secondary tooth/
+       3. crenulate/
+       4. dentate/
+       5. ventral elements dentate, dorsal elements smooth/
+
+#114. pharynx barrel/
+       1. without distinct ornamentation/
+       2. with paired lateral wings terminating distally in four papillae
+          immediately behind terminal papillae/
+       3. with basal ring of numerous small papillae/
+       4. near base with four ventral papillae and a lateral flange continued as
+          four to five papillae laterally/
+       5. with two pairs of papillae on lateral side, well behind the terminal
+          papillae/
+       6. with a pair of dark circular spots dorsolaterally just posterior to
+          the terminal papillae/
+       7. with two pairs of papillar rows laterally; four papillae in each row/
+       8. with a geniculate ridge laterally just posterior to terminal papillae/
+       9. with longitudinal slightly raised ridge ending in dimple behind
+          terminal papillae on lateral sides/
+       10. with scattered small papillae, most dense laterally and ventrally/
+
+#115. pharynx <with/without> paired terminal papillae/
+       1. present/
+       2. absent/
+
+#116. pharynx with <pairs of terminal papillae>/
+       pairs of terminal papillae/
+
+#117. pharynx with a single dorsal unpaired terminal papilla <present/absent>/
+       1. present/
+       2. absent/
+
+#118. a thick brush of numererous, partially branching papillae at terminal ring
+          of pharynx/
+       1. present/
+       2. absent/
+
+#119. pharynx terminal papillae <of pharynx, form>/
+       1. all similar/
+       2. with paired mid-dorsal/mid-ventral papillae very long; others similar/
+       3. with one mid-dorsal papilla very long; others similar/
+       4. with paired mid-lateral papillae very long; others similar/
+       5. differentiated into dorsal and dorsolateral papillae and paired
+          ventrolateral folds <<Macellicephaloides>>/
+
+#120. pharynx <remarks>/
+
+#121. facial tubercle/
+       1. absent, upper lip comprising longitudinal folds or ridges/
+       2. present <usually a single tubercle but sometimes 2-3 distinct
+          papillae>/
+
+#122. facial tubercle form/
+       1. a bulbous or digitiform papilla with smooth surface/
+       2. a distinctly conical structure/
+       3. a pair of papillae, ventral to and on either side of the base of the
+          median ceratophore/
+       4. a small rounded fllap or papilla/
+       5. large conical median papilla and paired smaller lateral papillae/
+       6. an inflated bulbous structure covered with papillae/
+
+#123. <facial tubercle/upper lip comments>/
+
+#124. lower lip/
+       1. unmodified, usually with shallow longitudinal folds or smooth/
+       2. partly covered by a large flap attached to segment 3
+          <<Macellicephaloides>>/
+       3. with a pair of tapering wing-like structures projecting laterally and
+          connecting to segment 3 <<Bruunilla>>/
+
+#125. first segment/
+       1. free from prostomium anterolaterally/
+       2. completely fused to prostomium (superior prostomial lobes distinct)/
+
+#126. segment 1 <visible dorsally>/
+       1. not visible dorsally (only the first parapodia are visible laterally)/
+       2. visible dorsally, clearly separated from prostomium/
+       3. hidden only for a short distance in center; otherwise visible
+          dorsally/
+       4. visible but fused to prostomium/
+
+#127. segment 2 <visible dorsally>/
+       1. complete and visible dorsally/
+       2. interrupted, not visible dorsal view/
+
+#128. buccal cirrus <length>/
+       1. longer than the ventral tentacular cirrus/
+       2. about as long as the ventral tentacular cirrus/
+       3. shorter than the ventral tentacular cirrus/
+
+#129. nuchal flap or fold on anterior margin of segment 2 <present/absent>/
+       1. absent/
+       2. present/
+
+#130. nuchal flap margin <ornamentation>/
+       1. entire, lacking marginal papillae/
+       2. with numerous marginal papillae or lappets/
+
+#131. nuchal papillae on segment 2 <present/absent>/
+       1. absent/
+       2. present/
+
+#132. nuchal papillae comprise <on segment 2>/
+       1. a single median conical papilla/
+       2. a pair of small papillae/
+       3. a pair of triangular frontally-projecting extensions/
+       4. with several small papillae in a row/
+
+#133. segment 3 dorsally <complete or interrupted>/
+       1. complete/
+       2. interrupted, not visible dorsally/
+
+#134. dorsum with ciliary bands <present/absent>/
+       1. absent/
+       2. present/
+
+#135. number of transverse dorsal ciliary bands/
+       1. one band per segment/
+       2. two bands per segment/
+       3. more than two bands per segment/
+       4. many ciliary bands at the bases of parapodia/
+
+#136. dorsum with crests, ridges or folds <present/absent>/
+       1. absent/
+       2. present/
+
+#137. dorsum with papillae <present/absent>/
+       1. absent/
+       2. present/
+
+#138. dorsum of segment 6 with a pair of conspicuous elongate flattened
+          scale-like structures/
+       1. absent/
+       2. present/
+
+#139. dorsum with raised mounds/
+       1. absent/
+       2. present/
+
+#140. dorsum with raised mounds arranged <distribution>/
+       1. singly on each chaetiger/
+       2. two in tandem in midline of each segment/
+       3. one pair per chaetiger/
+       4. three per segment/
+       5. two pairs per segment/
+       6. several per segment/
+
+#141. orientation of dorsal ornaments <<OMIT, has little separation power and
+          will be difficult for users to understand>>/
+       1. transverse/
+       2. longitudinally along the median line/
+
+#142. dorsal ornamentation <comments>/
+
+#143. ventral lamellae <present/absent>/
+       1. absent/
+       2. present/
+
+#144. ventrum of body <smooth/papillated>/
+       1. smooth/
+       2. papillated/
+
+#145. ventral ciliary bands or tufts <present/absent>/
+       1. absent/
+       2. present/
+
+#146. ventral ciliated bands <number>/
+       1. one band per segment/
+       2. two bands per segment/
+       3. many scattered tufts per segment/
+       4. many, evenly scattered over ventrum/
+
+#147. ventral keel of posterior end <present/absent>/
+       1. present/
+       2. absent/
+
+#148. ventrum <ornamentation comments>/
+
+#149. nephridial papillae <distinct, or not>/
+       1. distinct, at least on some median segments/
+       2. indistinct, not observable/
+
+#150. nephridial papillae first visible on segment/
+
+#151. nephridial papillae last visible on segment/
+
+#152. nephridial papillae <comments>/
+
+#153. elytra <absent/present>/
+       1. absent/
+       2. present/
+
+#154. elytra number/
+       1. few, 7 to 11 pairs <<Macellicephalinae, plus several genera with
+          dubious low elytra numbers>>/
+       2. 12 to 15 pairs <<many Eulepethidae, Polynoidae and Aphroditidae>>/
+       3. numerous, more than 15 pairs <<long-bodied Eulepethidae, Acoetidae,
+          Sigalionidae, some Polynoidae>>/
+
+#155. elytra <number of pairs>/
+       pairs/
+
+#156. elytra_min <<RW working, exclude from final outputs>>/
+
+#157. elytra_max <<RW working, exclude from final outputs>>/
+
+#158. elytra <distribution on anterior segments>/
+       1. on segments 2, 4, 5 then every second segment throughout the body/
+       2. on segments 2, 4, 5 then every second segment, distribution changing
+          posteriorly <after about segment 23/12th pair of elytra>/
+
+#159. elytra distribution <on posterior segments>/
+       1. on every third segment after segment 17/
+       2. on every segment after segment 25 <<some Sigalionidae>>/
+       3. on every segment after segment 27 <<most Sigalionidae>>/
+       4. 12th pair, the largest, on segment 24, then either smaller elytra or
+          lamellae on posterior segments <<Eulepethidae>>/
+       5. on every second segment after segment 23/
+       6. on every third segment after segment 23/
+       7. on every third segment after segment 23, then on every third segment
+          until 32, then on every second segment but some irregular/
+       8. on every third segment after segment 23, then on every segment after
+          segment 35/
+       9. on every second segment after segment 23 but irregular, some on
+          consecutive segments/
+       10. on every third segment after segment 23 but irregular, some on every
+          second/
+       11. on every third segment after segment 25/
+       12. on every third segment after segment 29 <<eg Lepidasthenia sensu
+          Hanley & Burke, 1991>>/
+       13. on every third segment after segment 32/
+       14. on every second segment after segment 33/
+
+#160. last 2 pairs of elytra/
+       1. follow previous pattern/
+       2. diverge from previous pattern and instead occur on consecutive
+          segments/
+
+#161. last elytra on segment/
+
+#162. elytra <distribution comments>/
+
+#163. elytra <similar or different>/
+       1. similar in size throughout (ornamentation if present gradually
+          diminishing towards posterior end)/
+       2. markedly reduced in size after the first 1 to 3 pairs/
+       3. first 12 pairs increasingly elongated, subsequent elytra (if present)
+          much smaller/
+
+#164. elytra <posterior extent>/
+       1. continuing for the length of the body, or almost (a short tail section
+          may be uncovered)/
+       2. leaving posterior third or more of body without elytra/
+
+#165. elytra <dorsal extent>/
+       1. covering body completely/
+       2. large but leaving middle of dorsum uncovered/
+       3. small, covering parapodia only/
+
+#166. elytra relative size <first 3 pairs>/
+       1. large on chaetiger 2, tiny elsewhere/
+       2. large on chaetiger 2, thereafter decreasing and after chaetiger 25
+          represented only by mamilliform elytrophores/
+       3. first three pairs large, then small (but posterior-most 2 pairs are
+          larger)/
+       4. first one or two pairs large, thereafter smaller, leaving dorsum bare/
+
+#167. elytra surface <sand-encrusted or not>/
+       1. sand-encrusted (not easily brushed off)/
+       2. not sand-encrusted/
+
+#168. elytra surface/
+       1. ornamented <as tubercles, papillae, polygonal compartments, ridges
+          and/or mounds>/
+       2. smooth/
+
+#169. elytra with translucent central area <present/absent>/
+       1. present <<Gorgoniapolynoe>>/
+       2. absent/
+
+#170. elytra macrotubercles <present/absent>/
+       1. present/
+       2. absent/
+
+#171. elytra macrotubercles form/
+       1. spine-like, conical or with simple conical tips/
+       2. with multiple teeth or branched tips/
+       3. cylindrical, columnar/
+       4. mushroom-shaped/
+       5. hemisphaerical/
+       6. sphaerical, globular or club-shaped/
+       7. digitiform/
+       8. mammiliform/
+       9. carinate, chisel-shaped/
+
+#172. elytra macrotubercles surface/
+       1. smooth/
+       2. granular/
+       3. with spines or teeth/
+
+#173. elytra macrotubercles arrangement/
+       1. scattered irregularly, more or less covering entire surface/
+       2. in a patch, near anterior margin or at place of elytrophore
+          attachment/
+       3. in a row along the posterior margin/
+       4. grouped in irregular compartments/
+
+#174. elytra microtubercles <present/absent>/
+       1. present/
+       2. absent/
+
+#175. elytra microtubercles <form>/
+       1. conical, tapering from broad bases/
+       2. spines, barely tapering from narrow bases/
+
+#176. elytra papillae on dorsal surface <present/absent>/
+       1. present/
+       2. absent/
+
+#177. elytra papillae <form>/
+       1. slender, digitiform <unbranched>/
+       2. digitiform branched <<Euthalanessa>>/
+       3. clavate or with sub-distal constriction ("ampules" of Hanley and other
+          authors)/
+
+#178. elytra papillae <simple/jointed>/
+       1. simple, comprising a single article/
+       2. jointed, comprising multiple articles/
+
+#179. elytra papillae arrangement/
+       1. grouped in clusters/
+       2. scattered irregularly/
+       3. concentrated near lateral and/or posterior margin/
+
+#180. elytra mounds <present/absent>/
+       1. present/
+       2. absent/
+
+#181. elytra mounds <number>/
+       1. a single very large mound or cushion/
+       2. two large mounds/
+       3. multiple smaller pustules or mounds/
+
+#182. elytra ridges <present/absent>/
+       1. present/
+       2. absent/
+
+#183. elytra ridges <orientation>/
+       1. high wide running anterio-posteriorly/
+       2. narrow longitudinal in posterior elytra (crested with dark elongated
+          spot)/
+       3. olique ridge and fold lateral to median attachment, running obliquely
+          posteriorly/
+       4. concentric <see \i{}Pholoides dorsipapillatus\i0{}>/
+
+#184. elytra polygonal compartments/
+       1. present/
+       2. absent/
+
+#185. elytra polygonal compartments <form>/
+       1. regular polygons/
+       2. highly irregular polygons/
+
+#186. elytra polygonal compartments <location>/
+       1. present over most of elytron/
+       2. limited to a small medial section of elytron/
+
+#187. elytra surface with concentric raised rings or ridges/
+       1. absent/
+       2. present <<only in Pholoides (Sigalionidae)>>/
+
+#188. elytral pockets <presence/absence>/
+       1. absent/
+       2. present/
+
+#189. elytral pockets <position>/
+       1. located frontally/
+       2. located laterally (outer lateral margin)/
+
+#190. elytra of mid-body segments with brooding pouch formed by a ventral
+          sheath/
+       1. absent/
+       2. present/
+
+#191. elytra margins <smooth/ornamented>/
+       1. entire <without projections or indentations of any kind>/
+       2. ornamented <with papillae, lobes or indentations>/
+
+#192. elytra marginal papillae <presence/absence>/
+       1. absent/
+       2. present/
+
+#193. number of papillae along anterior margin of first pair of elytra/
+
+#194. marginal papillae <form>/
+       1. digitiform, simple/
+       2. digitiform, branched/
+       3. clavate/
+       4. globular/
+
+#195. marginal papillae <arrangement>/
+       1. few, scattered/
+       2. in a dense row, forming a fringe/
+       3. grouped/
+
+#196. elytra marginal lobes <prominent leaf-like projections, flattened and
+          continuous with elytra surface>/
+       1. absent/
+       2. present/
+
+#197. elytra marginal lobes <smooth/fimbriated>/
+       1. smooth/
+       2. fimbriated/
+
+#198. elytra marginal lobes <entire/articulated>/
+       1. entire, without constrictions/
+       2. appearing articulated, with 1-2 constrictions/
+
+#199. elytra lateral margins with notches or indentations <absent/present>/
+       1. absent/
+       2. present/
+
+#200. <elytra margins comments>/
+
+#201. elytra <comments>/
+
+#202. pseudelytrae/
+       1. absent/
+       2. present/
+
+#203. branchiae <present/absent>/
+       1. absent/
+       2. present/
+
+#204. branchiae first on segment/
+
+#205. branchiae last on segment/
+
+#206. branchiae <location>/
+       1. present as elytrophoral structures only/
+       2. present on elytrophores and dorsal tubercles/
+       3. present on parapodial surfaces/
+       4. present on dorsal base of dorsal cirri/
+       5. at base of notopodia/
+
+#207. branchiae <form>/
+       1. digitiform or tapering simple structures/
+       2. branching structures/
+       3. flattened deeply folded elongate sacs/
+       4. inflated baloonlike/
+       5. tapering with dorsal and ventral wings/
+
+#208. branchiae <number of pairs>/
+       pairs/
+
+#209. branchiae <comments>/
+
+#210. dorsal tubercles <presence/absence>/
+       1. absent (or indistinct)/
+       2. present on all cirrigerous chaetigers/
+       3. present on chaetiger 6 only/
+
+#211. dorsal tubercles <form>/
+       1. bulbous or nodular/
+       2. ridge-like or flattened-lamelliform/
+       3. T-shaped/
+       4. cirriform, dorsally ciliated (branchia-like)/
+
+#212. dorsal tubercles of posterior segments with conical to lanceolate dorsal
+          lamellae <absent/present>/
+       1. absent/
+       2. present/
+
+#213. dorsal tubercles <comments>/
+
+#214. dorsal structure located between the dorsum and base of cirrophore on
+          segment 6/
+       1. absent/
+       2. present, flattened and elongate, scale-like/
+       3. present, inflated and roughly circular/
+
+#215. parapodial form <uniramous/biramous> <<NOT YET CODED>>/
+       1. all uniramous/
+       2. biramous from segment 2/
+
+#216. parapodial papillae <present/absent>/
+       1. absent/
+       2. present/
+
+#217. parapodial papillae <with/without papillae dispersed on all surfaces>/
+       1. restricted to a distinct patch or area/
+       2. present on most of the parapodium/
+
+#218. parapodial ctenidia <absent/present>/
+       1. absent/
+       2. present/
+
+#219. notopodia <with/without dense distal tuft of papillae>/
+       1. without distal tuft of papillae/
+       2. distally with dense tuft of papillae/
+
+#220. notopodia from segment 9 with coiled spinning glands <absent/present>/
+       1. absent/
+       2. present/
+
+#221. notopodia from segment 14 or 15 with sac-like spinning glands
+          <absent/present>/
+       1. absent/
+       2. present/
+
+#222. notopodial stylodes <absent/present>/
+       1. absent/
+       2. present/
+
+#223. enlarged stylode near tip of acicular lobe of notopodium <absent/present>/
+       1. absent/
+       2. present/
+
+#224. notopodial flanges <absent/present>/
+       1. absent/
+       2. present/
+
+#225. notopodia and notoacicula <present/absent>/
+       1. present/
+       2. absent/
+
+#226. tips of notocacicula <straight/bent>/
+       1. straight/
+       2. bent/
+
+#227. aciculae of notopodia <project/do not project>/
+       1. project clear of epidermis/
+       2. do not project clear of epidermis/
+
+#228. aciculae in neuropodia <project/do not project>/
+       1. project clear of epidermis/
+       2. do not project clear of epidermis/
+
+#229. tips of neuroacicula <simple or hammer-shaped>/
+       1. taper to simple tips/
+       2. terminally expanded and hammer-shaped, with chitinous wing-like
+          processes/
+
+#230. dorsal cirri <occurrence>/
+       1. absent/
+       2. present chaetiger 3 only/
+       3. present chaetigers 3 and 6 only/
+       4. present on all segments lacking elytra/
+
+#231. dorsal cirri styles <relative length >/
+       1. much longer than cirrophores/
+       2. about as long as cirrophores/
+       3. much shorter than cirrophores/
+
+#232. dorsal cirri styles <form>/
+       1. elongate, evenly tapering <much longer than cirrophore>/
+       2. elongate, with sharply narrowed tips <much longer than cirrophore>/
+       3. elongate, subdistally inflated <much longer than cirrophore>/
+       4. elongate cylinders, stout finger-like but with sharply narrowed tips
+          <diameter at least equal to that of cirrophore>/
+
+#233. dorsal cirri styles <papillation>/
+       1. without papillae/
+       2. papillated/
+
+#234. accessory filamentous organs on dorsal cirrophores <present/absent>/
+       1. absent/
+       2. present/
+
+#235. notopodia <form>/
+       1. a short rounded lobe/
+       2. conical or pointed/
+
+#236. notopodial bracts <present/absent>/
+       1. absent/
+       2. present/
+
+#237. dorsal notopodial bracts <form>/
+       1. do not enclose dorsal cirri/
+       2. enclose dorsal cirri/
+
+#238. notopodial sensory projection <absent/present> <<some Sigalionidae; NOT
+          CURRENTLY CODED>>/
+       1. absent/
+       2. present/
+
+#239. neuropodia <length>/
+       1. short, not as long as the body is wide <without parapodia>/
+       2. long, at least as long as body is wide <without parapodia>/
+
+#240. neuropodial <pre- and post-chaetal lobes>/
+       1. prechaetal lobe distinctly longer than postchaetal lobe <<most taxa;
+          Polynoinae, for example>>/
+       2. prechaetal and postchaetal lobe subequal << Arctonoinae sensu Barnich,
+          also Lepidastheniinae>>/
+
+#241. neuropodial prechaetal (acicular) lobe distal shape/
+       1. rounded/
+       2. elongate, tapering/
+
+#242. neuropodial prechaetal supra-acicular process <absent/present>/
+       1. absent/
+       2. present/
+
+#243. neuropodial supra-acicular process <form>/
+       1. tapering, seeming to be a continuous extension of the neuropodium/
+       2. digitiform, forming a papilla distinct from neuropodial lobe/
+
+#244. neuropodial sub-acicular process <present/absent>/
+       1. absent/
+       2. present/
+
+#245. neuropodial postchaetal lobe <entire or bilobed>/
+       1. distally entire/
+       2. bilobed/
+
+#246. proportions of neuropodial postchaetal lobes <symmetry>/
+       1. symmetrical in posterior view (disregarding supra-acicular process, if
+          present)/
+       2. asymmetrical, with high end dorsally in the neuropodia in posterior
+          view/
+       3. asymmetrical, with high end ventrally in the neuropodia in posterior
+          view/
+
+#247. neuropodia margin <with/without papillae>/
+       1. without papillae/
+       2. with papillae along the ventral margin/
+       3. with a rows of papillae along both dorsal and ventral margins/
+
+#248. neuropodia distally <with/without dense papillae>/
+       1. without dense papillae/
+       2. with dense papillae/
+
+#249. neuropodial stylodes <absent/present>/
+       1. absent/
+       2. present/
+
+#250. ventral cirri <occurrence>/
+       1. present on all chaetigers/
+       2. present on several anterior chaetigers, thereafter missing/
+       3. absent or rudimentary/
+
+#251. ventral cirri after chaetiger 2 attached/
+       1. basally on neuropodia/
+       2. near middle of neuropodia/
+       3. near distal end of neuropodia/
+
+#252. ventral cirri styles <form>/
+       1. cirriform, tapering (cylindrical in cross-section)/
+       2. flattened, leaf-like/
+
+#253. ventral cirri styles <papillation>/
+       1. smooth/
+       2. papillated/
+
+#254. ventral cirri styles <papillation pattern>/
+       1. with scattered papillae dispersed all over/
+       2. with dense cover of papillae on ventral side/
+       3. with a single row of papillae on ventral edge/
+       4. with a few very small papillae on ventral side/
+       5. with papillae on upper surface/
+       6. covered with a dense mat of papillae/
+
+#255. ventral papilla at median base of ventral cirrus <absent/present>/
+       1. absent/
+       2. present/
+
+#256. <comments on parapodia>/
+
+#257. notochaetae <present/absent>/
+       1. present/
+       2. absent/
+
+#258. notochaetae <relative thickness>/
+       1. distinctly thicker than neurochaetae/
+       2. about as thick as neurochaetae/
+       3. thinner than neurochaetae/
+
+#259. notochaetae dorsal orientation/
+       1. mainly held erect above the body/
+       2. mainly or wholly dorso-lateral projections from the notopodia/
+
+#260. smooth capillary notochaetae <absent/present>/
+       1. absent/
+       2. present/
+
+#261. smooth capillary notochaetae <iridescent or not>/
+       1. not iridescent/
+       2. iridescent/
+
+#262. serrated or spinous capillary notochaetae <absent/present>/
+       1. absent/
+       2. present/
+
+#263. capillary notochaetae forming a dorsal felt <present/absent>/
+       1. present/
+       2. absent/
+
+#264. bipinnate ("feathered") capillary notochaetae <present/absent>/
+       1. present/
+       2. absent/
+
+#265. notochaetae slender, with lancet shaped tips <absent/present>/
+       1. absent/
+       2. present/
+
+#266. stout spine-like notochaetae/
+       1. absent/
+       2. present, as harpoon chaetae, long projecting spines, typically few in
+          number, golden or dark brown and with subdistal barbed teeth or other
+          ornamentation/
+       3. present, as short spines, usually numerous and shorter than body width
+          (may have capillary tips)/
+
+#267. harpoon notochaetae <form>/
+       1. spines, cylindrical in cross-section, either smooth or with hairs or
+          granulations/
+       2. harpoon-like, with barb-like subterminal teeth/
+       3. flattened palae, usually tuberculate or with spines or serrations/
+       4. long, curved and sabre-like, with winged tips/
+
+#268. harpoon notochaetae number about/
+       per notopodium/
+
+#269. shaft of harpoon notochaetae <smooth/tuberculate/hairs>/
+       1. smooth/
+       2. tuberculate/
+       3. with fine hairs/
+       4. with irregular olique ridges/
+
+#270. notochaetal spines in cross-section <form>/
+       1. round, gently curved and usually ornamented with numerous rows of
+          spines/
+       2. flattened and knife-like, usually with serrations along the convex
+          margin/
+       3. flattened and spatulate with serrations along both margins/
+
+#271. notochaetal spines with distinct 90 degree bend (geniculate)
+          <present/absent>/
+       1. absent/
+       2. present/
+
+#272. notochaetal spines geniculate with flattened ovoid tips (subspatulate)
+          <absent/present>/
+       1. absent/
+       2. present/
+
+#273. notochaetal spines with capillary tips <present/absent>/
+       1. absent/
+       2. present/
+
+#274. notochaetal spines <smooth or ornamented>/
+       1. smooth/
+       2. ornamented/
+
+#275. notochaetal spines with ornamentation <rows of teeth/lateral serrations>/
+       1. in the form of fine teeth in distinct tranverse rows/
+       2. with teeth along one margin/
+       3. with teeth along two margins/
+
+#276. notochaetal spines with closely-spaced fine teeth in groups resembling
+          scales <present/absent> <<NEEDS WORK - EXCEPT FOR Levinsteiniella iris
+          & Scalisetosus glabrus these seem all to be "neurochaetal spines with
+          scales">>/
+       1. absent/
+       2. present/
+
+#277. notochaetal spines <tips ornamented or bare>/
+       1. with ornamentation continuing to the tip/
+       2. with tip section smooth, bare of ornamentation/
+
+#278. notochaetal spines with semi-lunar pockets <present/absent>/
+       1. absent/
+       2. present/
+
+#279. notochaetal spines with tips <simple or modified>/
+       1. simple, entire/
+       2. indented, notched , bidentate or furcate/
+
+#280. tips of notochaetal spines <blunt or pointed>/
+       1. with short points/
+       2. with extended narrowly tapering tips/
+       3. truncate/
+
+#281. notochaetal spines with tips modified <bidentate, furcate or indented>/
+       1. bidentate/
+       2. furcate/
+       3. indented/
+
+#282. notochaetal spines with penicillate tips <present/absent>/
+       1. absent/
+       2. present/
+
+#283. notochaetal spines with hooked tips <absent/present>/
+       1. absent/
+       2. present/
+
+#284. notochaetae <comments>/
+
+#285. compound neurochaetae <present/absent>/
+       1. present/
+       2. absent/
+
+#286. compound neurochaetae <form>/
+       1. with long, multi-articled blade and entire, pointed tip < = compound
+          spiniger; Sigalionidae>/
+       2. with short, single-articled or long, multi-articled blade and uni-or
+          bidentate, falcate tip = compound falciger (Sigalionidae)/
+       3. with a single long tooth on the shaft at the point of the articulation
+          and a single terminal article with blunt tip and short terminal hairs
+          <<only known in \i{}Aphrodita abyssalis\i0{}>>/
+
+#287. simple neurochaetae with capillary tips <absent/present>/
+       1. absent/
+       2. present/
+
+#288. tips of capillary neurochaeta <not yet coded for any taxon>/
+       1. entire, pointed/
+       2. split, furcate; divided into 2 long narrow teeth/
+
+#289. hooked neurochaetae in anterior-most segments <absent/present>/
+       1. absent/
+       2. present/
+
+#290. hooked neurochaetae present on segments/
+
+#291. hooked neurochaetae <form of tips>/
+       1. with blunt tips/
+       2. with pointed tips/
+
+#292. geniculate neurochaetae <absent/present>/
+       1. absent/
+       2. present/
+
+#293. clavate neurochaetae <absent/present>/
+       1. absent/
+       2. present/
+
+#294. pectinate neurochaetae <absent/present>/
+       1. absent/
+       2. present/
+
+#295. neurochaetae shaft <cylindrical or flattened>/
+       1. cylindrical, approximately circular in cross-section <most Polynoidae,
+          especially shallow-water species>/
+       2. spatulate, flattened or depressed <eg Bathyfauvelia, Hodor,
+          Polaruschakov>/
+       3. strongly flattened with a broad knife-like blade
+          <\i{}Bathyeliasona\i0{}>/
+
+#296. neurochaetae <smooth or ornamentated>/
+       1. smooth/
+       2. ornamented/
+
+#297. neurochaetae ornamentation <transverse rows of spines or other
+          arrangements>/
+       1. in the form of spines in distinct tranverse rows/
+       2. with a row of spines along both margins (typically neurochaetae
+          flattened)/
+       3. spines but not arranged in regular transverse rows/
+       4. subdistally with long hairs/
+
+#298. neurochaetae distally <absent or continuing to tip>/
+       1. with ornamentation continuing almost to tip/
+       2. bare of ornamentation near tip/
+
+#299. neurochaetae tips <nearly straight or strongly recurved>/
+       1. straight/
+       2. slightly curved/
+       3. strongly recurved/
+
+#300. limbate neurochaetae <absent/present>/
+       1. absent/
+       2. present/
+
+#301. neurochaetae with subdistal "spur", spine or spines/
+       1. absent/
+       2. present/
+
+#302. neurochaetae with subdistal "spur" (large spine) and/
+       1. no other teeth or hairs/
+       2. a gap to a fringe of hairs/
+       3. a fringe of hairs continuous to the spur/
+       4. a fringe of hairs with 2-3 spines close to the spur/
+       5. 1-5 additional smaller spines, otherwise smooth/
+       6. a comb of 8 or more teeth/
+       7. a pilose edge (a mat of low hairs) with 2-3 spines close to the spur/
+       8. a pilose edge formed by a mat of low hairs/
+
+#303. neurochaetae with semi-lunar pockets <absent/present>/
+       1. absent/
+       2. present/
+
+#304. neurochaetal spines <tips ornamented or bare>/
+       1. with ornamentation continuing to the tip/
+       2. with tip section smooth, bare of ornamentation/
+
+#305. neurochaetae with penicillate (hairy) tips <absent/present>/
+       1. absent/
+       2. present/
+
+#306. neurochaetae tips <simple or bidentate-indented> <<recode this as simple
+          neurochaetae p/a, ditch the bidentate,furcate,indented >>/
+       1. simple, entire/
+       2. bidentate, furcate, indented or notched/
+
+#307. neurochaetae tips <blunt or pointed tips>/
+       1. blunt/
+       2. short points/
+       3. elongate with fine pointed tips/
+       4. knob-like/
+
+#308. neurochaetae with bidentate tips <absent/present>/
+       1. absent/
+       2. present/
+
+#309. neurochaetae with notched tips <absent/present>/
+       1. absent/
+       2. present/
+
+#310. furcate neurochaetae <absent/present>/
+       1. absent/
+       2. present <<includes taxa coded as "bifid - tines equal size">>/
+
+#311. multidentate neurochaetae <absent/present>/
+       1. absent/
+       2. present/
+
+#312. bipinnate neurochaetae on segments 2 and 3 <absent/present>/
+       1. absent/
+       2. present/
+
+#313. stout flattened neurochaetae in ventral positions of segments 3-7/
+       1. absent/
+       2. present/
+
+#314. neurochaetae <comments>/
+
+#315. last several segments <modified to a wheel organ/unmodified>/
+       1. unmodified <implicit>/
+       2. in part modified to a wheel organ/
+
+#316. posterior-most segments <present/absent>/
+       1. unmodified <<implicit>>/
+       2. dorsally compressed by dorsally located pygidium/
+
+#317. pygidium <position in relation to last several segments>/
+       1. extending anteriorly over two or more segments/
+       2. extending anteriorly to about chaetiger 18/
+       3. terminal/
+       4. indistinct/
+       5. imbedded in last four chaetigers/
+
+#318. dorsum immediately anterior to pygidium/
+       1. similar to that of other segments/
+       2. with a median ridge extending over two or more segments/
+       3. with a median ciliated band extending over two or more segments/
+
+#319. anus <<Omit, redundant if pygidium position is specified>>/
+       1. dorsal/
+       2. terminal/
+
+#320. anus opening on pygidium/
+       1. posterior to last pair of parapodia/
+       2. medial to last pair of parapodia/
+       3. at level of two or three segment anterior to pygidium/
+       4. at level of chaetiger 18/
+
+#321. pygidial appendages <present/absent>/
+       1. present/
+       2. absent/
+
+#322. pygidial appendages <form>/
+       1. one pair of subulate or cirriform pygidial cirri/
+       2. one pair of triangular to egg-shaped lobes, free to base/
+       3. one pair, fused basally, distally wide triangular lobes with slender
+          tips/
+       4. paired voluminous pygidial appendages/
+       5. a single voluminous pygidial appendage/
+       6. one pair of large pygidial cirri, basally surrounded by fold; fold
+          dorsally crenulated; ventral to this structure, paired triangular
+          lobes free to base./
+       7. quadrangular, slightly inflated ventral lobe present/
+       8. a single long slender cirrus, papillate along one side; on the other
+          side an inflated bulbous rudiment/
+
+#323. <pygidium comments>/
+
+#324. <variation>/
+
+#325. <remarks; comments/discussion for taxonomic mss>/
+
+#326. Export this taxon to Intkey application for distribution/
+       1. yes/
+       2. no/
+
+#327. <<OMIT. LEGACY DATA>> Body <<not well quantified, omit from 2011 intkey
+          and parsimony treatments, keep for tonat>>/
+       1. truncate anteriorly and posteriorly/
+       2. truncate anteriorly and tapering posteriorly/
+       3. spindle-shaped/
+
+#328. <<OMIT. LEGACY DATA>> Body <flattening> <<not well quantified, omit from
+          2011 intkey and parsimony treatments, keep for tonat>>/
+       1. dorsally convex and ventrally flattened/
+       2. dorsally and ventrally flattened/
+       3. dorsally flattened and ventrally convex/
+       4. convex dorsally and ventrally/
+
+#329. <<OMIT. LEGACY DATA>> body cross-section <<not well quantified, omit from
+          2011 intkey and parsimony treatments, keep for tonat>>/
+       1. with rectangular cross-section/
+       2. strongly flattened/
+
+#330. <<OMIT, too difficult to interpret>> prostomium shape <independent of
+          notch>/
+       1. ovate/
+       2. circular/
+       3. triangular/
+       4. trapezoidal/
+       5. transversely quadrangular with paired frontal projections (cf lateral
+          ceratophores)/
+       6. rounded posteriorly and laterally, anteriorly narrowed basally with
+          flaring lateral ceratophores (jug-shaped)/
+       7. pentagonal/
+       8. hexagonal/
+       9. truncate anteriorly and posteriorly; inflated sides/
+       10. deeply U-shaped (opening anteriorly)/
+       11. transverse, yoke-like, slightly expanded anteriorly at both ends
+          (sort of scewed dumbell-shaped)/
+
+#331. head <retraction> <<OMIT FROM INTKEY; PRESERVATION ARTEFACT>>/
+       1. not retracted into segment 2/
+       2. retracted into segment 2; posterior edge of prostomial lobes covered/
+       3. retracted into segment 2; posterior eyes covered/
+       4. retracted into segment 2; posterior eyes hidden, dorsal fold of
+          segment 2 attached to prostomium in front of posterior yes/
+       5. completely retracted into segment 2; only tips of antennae showing/
+
+#332. <OMIT THIS, CONFOUNDS TOO MANY OTHER CHARACTERS> Length of median and
+          lateral antennae in relation to prostomium/
+       1. both much longer than prostomial length/
+       2. median antenna much longer, lateral antennae about as long as
+          prostomial length/
+       3. median antenna much longer, lateral antennae much shorter than
+          prostomial length/
+       4. median antennae about as long as, lateral antennae much shorter than
+          prostomial length/
+       5. median antenna about as long as, lateral antennae distinctly longer
+          than prostomium/
+       6. all antennae about as long as prostomial length/
+       7. all antennae shorter than prostomial length/
+       8. median antenna shorter, lateral antennae about as long as prostomium/
+       9. median antenna shorter, lateral antennae much longer than prostomium/
+
+#333. <<OMIT; old coding, do not use>> auxiliary prostomial appendages (at base
+          of lateral antennae)/
+       1. absent/
+       2. present as short scale-like structures/
+       3. present as long sheaths/
+
+#334. <<OMIT FROM OUTPUTS; LEGACY DATA; RECODED IN OTHER CHARACTERS>> Terminal
+          pharyngeal papillae including/
+       1. a total of five papillae/
+       2. a total of eight papillae (four ventral, two dorsal and two lateral)/
+       3. 3 pairs/
+       4. 4 pairs/
+       5. 5 pairs/
+       6. 6 pairs/
+       7. 7 pairs/
+       8. 8 pairs/
+       9. 9 pairs/
+       10. 10 pairs/
+       11. 11 pairs/
+       12. 12 pairs/
+       13. 13 pairs/
+       14. 14 pairs/
+       15. 16 pairs/
+       16. 18 pairs/
+       17. a thick brush of numererous, partially branching papillae/
+       18. one pair of slender elongated lateral and four pairs of dorso-ventral
+          short papillae/
+
+#335. <<OMIT>> <elytra> present on chaetigers/
+
+#336. elytral distribution beyond median section OMIT requires rationalisation/
+       1. on every chaetiger thereafter, apart from far posterior end/
+       2. on every second chaetiger thereafter (ie elytral and cirral segments
+          alternating), apart from far posterior end/
+       3. alternating with one elytral and two cirral segments thereafter, apart
+          from far posterior end/
+       4. alternating with two elytral and one cirral segment thereafter, apart
+          from far posterior end/
+       5. with more than two cirral chaetigers between two elytral chaetigers
+          thereafter/
+       6. at least in part with irregular or asymmetric distribution/
+
+#337. <OMIT, incompletely justified> bilobed postchaetal lobes/
+       1. both parts rounded, separated by incision/
+       2. both parts bluntly pointed, separated by incision/
+       3. truncate above acicula, obliquely truncate below/
+       4. upper part rounded; lower part folded over ventral edge of parapodia,
+          with digitiform extensions/
+       5. all parts rounded/
+
+#338. dorsal cirri <location in relation to notopodia etc> <<OMIT, states need
+          explanation>>/
+       1. located directly above notopodia/
+       2. located posterior to notopodia/
+       3. attached to posterodorsal face of notopodia/
+       4. attached to the dorsoposterior base of notopodia/
+       5. slightly anterior to notopodia/
+       6. located posterior to and attached to notopodia by anterior and
+          posterior lamellae/
+
+#339. notopodia located <<OMIT from Intkey>>/
+       1. directly above neuropodia/
+       2. anterior and dorsal to neuropodia/
+       3. on anterodorsal face of neuropodia/
+
+#340. cirrophores of dorsal cirri <width at junction with style> <<OMIT,
+          ambiguous for many taxa>>/
+       1. not appreciably wider than base of styles/
+       2. distinctly wider than style/
+
+#341. dorsal cirri styles <similar or alternating length> <<OMIT, unrelaibly and
+          incompletely coded>>/
+       1. similar in length throughout/
+       2. alternating long and short/
+       3. at least some dorsal cirri very short, papillar/
+
+#342. cirrophore form <<OMIT, most states indistinguishable>>/
+       1. conical/
+       2. cylindrical/
+       3. inflated basally and medially/
+       4. inflated basally/
+       5. inflated medially/
+       6. inflated distally/
+       7. cylindrical but with distal ventral spur/
+       8. large and sac-like/
+       9. cylindrical with wings from dorso-posterior to anterioventral sides/
+       10. cylindrical, but wrinkled/
+       11. fused to notopodia in modified chaetigers/
+       12. flattened/
+
+#343. ventral cirri <position> <<OMIT, not useful>>/
+       1. middle of ventral edge of neuropodium/
+       2. posterior edge of neuropodium or on posterior face/
+       3. in deep notch on antero-ventral surface of parapodia/
+       4. on anterior face of neuropodium/
+
+#344. ventral cirrophore <<OMIT, difficult to observe and unreliably recorded>>/
+       1. absent/
+       2. present, low and truncate/
+       3. present, globular, inflated from about chaetiger 10/
+
+#345. <<OMIT; UNUSED LEGACY DATA; Poorly-explained>> notochaetae orientation 2
+          <redundant; rationalise with previous character>/
+       1. gently spreading bundle/
+       2. at least in part highly divergent over dorsum/
+       3. in spreading bundle over side of body/
+       4. in circular (or spiral) group (in end-on view)/
+       5. very few, in a small bundle above acicula/
+       6. absent in some parapodia/
+       7. in part geniculate/
+
+#346. <<OMIT, MISLEADING, ONLY USED BY OUTGROUP TAXA>> pectinate neurochaetae
+          <present/absent>/
+       1. absent/
+       2. present in the superior bundle/
+
+#347. <<OMIT, difficult to interpret>> notochaetal spines <curvature>/
+       1. straight or gently curved/
+       2. strongly curved/
+
+#348. <<OMIT, UNTRUSTED>> neurochaetal falcigers <cross-section>/
+       1. circular, or nearly so/
+       2. flattened/
+
+#349. <<OMIT. LEGACY DATA>> Last several segments <<omit, replaced by following
+          2 binary characters - RW 2011>>/
+       1. similar to those in the rest of the body/
+       2. in part modified to a wheel organ/
+       3. dorsally incomplete or compressed by forward migration of pygidium/
+
+#350. <<OMIT, TRANSFER USEFUL CODING TO NEW CHARACTERS>> length of secondary
+          teeth in bidentates/
+       1. short/
+       2. long, at least half as long as the main tooth/
+       3. long, relatively basal in position/
+       4. longer than primary tooth; both directed distally/
+
+#351. <OMIT, INTERPRETATION UNCLEAR> <terminal pygidium> located/
+       1. posterior to last pair of parapodia/
+       2. between last pair of parapodia/
+
+#352. <<OLD CODING; OMIT, TRANSFER TO NEW CHARACTERS>> notochaetal spines
+          <ornamentation>/
+       1. with transverse rows of teeth/
+       2. with transverse rows of spines/
+       3. with short marginal serrations <on one side only, teeth very small>/
+       4. with single row of teeth along one margin/
+       5. with a closely-spaced double row of teeth along one margin
+          <<Pettibone, 1985 [wood panel polynoids] : figure 1E>>/
+       6. one to two rows of short spines/
+       7. with one to three large spines (mostly two)/
+       8. single row of flatttened scales/
+       9. serrated along one margin/
+       10. with flattened apressed teeth near tip/
+       11. densely packed rows of transverse serrations/
+       12. scale-like teeth in two alternating rows/
+
+#353. last 1-3 pairs of elytra <<OMIT, THIS IS MANY CHARACTERS>>/
+       1. last pair on the expected chaetiger/
+       2. last two pairs of elytrae on consecutive chaetigers/
+       3. last two pairs separated by two cirral chaetigers/
+       4. more than two cirral chaetigers between last two pairs of elytra/
+       5. third and second to last pair on consecutive chaetigers, second to
+          last and last pair separated by a single chaetiger/
+       6. last three pairs distributed irregularly/
+
+#354. neurochaetal falcigers distally <OMIT; ARCHIVE ONLY; CODE TRANSFERRED>/
+       1. unidentate (entire: simple, straight or falcate)/
+       2. minutely notched <<coding transferred>>/
+       3. bidentate/
+       4. bifid (tines of similar size) <<coding transferred to furcate p/a>>/
+       5. bifid with accessory teeth between the two main teeth <<one sp only,
+          coding transferred as tridentate with comment>>/
+       6. trifid/
+       7. slightly expanded, (looks hooded in illustration) <<coding
+          transferred>>/
+       8. median flange arising where secondary tooth are in other taxa <<coding
+          transferred>>/
+       9. rounded <<coding transferred; one sp only, comment>>/
+

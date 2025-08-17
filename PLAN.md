@@ -1,0 +1,3 @@
+1. Define a schema for a sqlite database which can express the delta intkey format, https://www.delta-intkey.com/www/standard.htm (using sqlite3 in Python)
+2. Set up a python program, with PyParsing, to read in the example formats given in the data directory. Write tests to ensure the grammar is parsed, and the key features of the format are expressed in the sqlite database.
+3. Write a query engine using the sqlite database such that the most selective (or powerful) charactersistics are requested first. The query engine should use a composable sequence of CTEs in sqlite, unless you have a better idea.
