@@ -42,6 +42,14 @@ python3 delta_parser.py
 python3 interactive_key.py
 ```
 
+### Use the CLI for programmatic access:
+```bash
+python3 delta_cli.py propose          # Get most selective character
+python3 delta_cli.py add-filter 1 0   # Add a filter
+python3 delta_cli.py state             # Show current state
+python3 delta_cli.py --json propose    # JSON output
+```
+
 ### Query engine demo:
 ```bash
 python3 query_engine.py
@@ -51,6 +59,7 @@ python3 query_engine.py
 ```bash
 python3 test_parser.py          # Test DELTA parser
 python3 test_query_engine.py    # Test query engine
+python3 test_cli.py             # Test CLI interface
 ```
 
 ### Query the database directly:
@@ -63,9 +72,11 @@ sqlite3 delta.db
 - `delta_parser.py` - Main parser implementation
 - `query_engine.py` - Taxonomic key generation engine  
 - `interactive_key.py` - Interactive identification interface
+- `delta_cli.py` - Command-line interface for programmatic access
 - `schema.sql` - SQLite database schema  
 - `test_parser.py` - Parser test suite
 - `test_query_engine.py` - Query engine test suite
+- `test_cli.py` - CLI test suite
 - `data/` - Example DELTA format files
   - `chars` - Character definitions
   - `items` - Taxonomic item descriptions  
@@ -99,6 +110,7 @@ This implementation covers all steps from PLAN.md:
 1. ✅ **SQLite schema for DELTA intkey format** - Complete database design
 2. ✅ **PyParsing-based parser with tests** - Full DELTA format support  
 3. ✅ **Query engine with composable CTEs** - Intelligent key generation
+4. ✅ **CLI for character proposals and filter building** - Programmatic interface
 
 ### Key Features Implemented:
 
@@ -106,8 +118,10 @@ This implementation covers all steps from PLAN.md:
 - **🔗 Composable CTEs**: Progressive query refinement using Common Table Expressions  
 - **🎯 Smart Key Generation**: Most selective characters chosen first
 - **💬 Interactive Interface**: User-friendly step-by-step identification
+- **🤖 Programmatic CLI**: JSON API for automation and integration
+- **💾 State Persistence**: Filters persist between CLI calls
 - **⚡ Performance Optimized**: Efficient SQLite queries with proper indexing
-- **🧪 Comprehensive Tests**: Full test coverage for parser and query engine
+- **🧪 Comprehensive Tests**: Full test coverage for all components
 
 ### Query Engine Architecture:
 
