@@ -34,15 +34,26 @@ This project implements the DELTA format specification from https://www.delta-in
 
 ### Parse DELTA files and create database:
 ```bash
-python delta_parser.py
+python3 delta_parser.py
+```
+
+### Use the interactive identification key:
+```bash
+python3 interactive_key.py
+```
+
+### Query engine demo:
+```bash
+python3 query_engine.py
 ```
 
 ### Run tests:
 ```bash
-python test_parser.py
+python3 test_parser.py          # Test DELTA parser
+python3 test_query_engine.py    # Test query engine
 ```
 
-### Query the database:
+### Query the database directly:
 ```bash
 sqlite3 delta.db
 ```
@@ -50,8 +61,11 @@ sqlite3 delta.db
 ## Project Structure
 
 - `delta_parser.py` - Main parser implementation
+- `query_engine.py` - Taxonomic key generation engine  
+- `interactive_key.py` - Interactive identification interface
 - `schema.sql` - SQLite database schema  
-- `test_parser.py` - Comprehensive test suite
+- `test_parser.py` - Parser test suite
+- `test_query_engine.py` - Query engine test suite
 - `data/` - Example DELTA format files
   - `chars` - Character definitions
   - `items` - Taxonomic item descriptions  
@@ -78,11 +92,37 @@ The SQLite database includes:
 ✅ **Character dependencies**: Conditional character relationships  
 ✅ **Complex text**: Formatted descriptions with embedded markup
 
-## Next Steps
+## Implementation Status
 
-This implementation covers steps 1-2 of the PLAN.md:
-1. ✅ SQLite schema for DELTA intkey format
-2. ✅ PyParsing-based parser with tests
+This implementation covers all steps from PLAN.md:
 
-Step 3 will implement the query engine using composable CTEs for intelligent key generation.
+1. ✅ **SQLite schema for DELTA intkey format** - Complete database design
+2. ✅ **PyParsing-based parser with tests** - Full DELTA format support  
+3. ✅ **Query engine with composable CTEs** - Intelligent key generation
+
+### Key Features Implemented:
+
+- **🔍 Character Selection**: Automatic ranking by discriminating power
+- **🔗 Composable CTEs**: Progressive query refinement using Common Table Expressions  
+- **🎯 Smart Key Generation**: Most selective characters chosen first
+- **💬 Interactive Interface**: User-friendly step-by-step identification
+- **⚡ Performance Optimized**: Efficient SQLite queries with proper indexing
+- **🧪 Comprehensive Tests**: Full test coverage for parser and query engine
+
+### Query Engine Architecture:
+
+The query engine uses **composable Common Table Expressions (CTEs)** to build efficient identification keys:
+
+```sql
+WITH base_items AS (SELECT * FROM items),
+     filter_1 AS (SELECT * FROM base_items WHERE character_46 = 2),  
+     filter_2 AS (SELECT * FROM filter_1 WHERE character_61 = 2)
+SELECT * FROM filter_2
+```
+
+This approach allows:
+- **Progressive refinement** - Each step narrows the results
+- **Optimal performance** - SQLite optimizes the entire CTE chain
+- **Flexible querying** - Easy to add/remove filters dynamically  
+- **Character ranking** - Most discriminating characters selected first
 
