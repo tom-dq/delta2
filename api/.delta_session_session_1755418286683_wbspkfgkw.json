@@ -1,0 +1,18 @@
+{
+  "filters": [
+    {
+      "character_number": 1,
+      "value": "\\i{}Zachsiella nigromaculata\\i0{} (Grube, 1878)",
+      "description": "Character 1 = \\i{}Zachsiella nigromaculata\\i0{} (Grube, 1878)"
+    }
+  ],
+  "current_items": [
+    {
+      "item_name": "\\i{}Zachsiella nigromaculata\\i0{} (Grube, 1878)",
+      "item_number": 1,
+      "total_matches": 1
+    }
+  ],
+  "remaining_count": 1,
+  "available_characters": []
+}
